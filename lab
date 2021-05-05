@@ -1,0 +1,3 @@
+#lab1
+s = "gas"
+print (s)
